@@ -1,0 +1,20 @@
+{
+  "name": "lesson-practice",
+  "version": "0.0.1",
+  "description": "usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\r [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\r [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\r [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\r [--config-env=<name>=<envvar>] <command> [<args>]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenyro/git-practice-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenyro/git-practice-repo/issues"
+  },
+  "homepage": "https://github.com/Kenyro/git-practice-repo#readme"
+}
